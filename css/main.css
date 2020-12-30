@@ -385,7 +385,7 @@ header nav .ownmenu ul.dropdown .indicator{display:block;left:0px;margin-left:0p
 .checkbox input[type="checkbox"]:disabled + label::before, .checkbox input[type="radio"]:disabled + label::before{background-color:#eeeeee;cursor:not-allowed;}
 .checkbox.checkbox-circle label::before{border-radius:50%;}
 .checkbox.checkbox-inline{margin-top:0;}
-.checkbox-primary input[type="checkbox"]:checked + label::before, .checkbox-primary input[type="radio"]:checked + label::before{background-color:#337ab7;border-color:#337ab7;}
+.checkbox-primary input[type="checkbox"]:checked + label::before, .checkbox-primary input[type="radio"]:checked + label::before{background-color:#cf4a25;border-color:#cf4a25;}
 .checkbox-primary input[type="checkbox"]:checked + label::after, .checkbox-primary input[type="radio"]:checked + label::after{color:#fff;}
 .checkbox-danger input[type="checkbox"]:checked + label::before, .checkbox-danger input[type="radio"]:checked + label::before{background-color:#d9534f;border-color:#d9534f;}
 .checkbox-danger input[type="checkbox"]:checked + label::after, .checkbox-danger input[type="radio"]:checked + label::after{color:#fff;}
@@ -405,9 +405,9 @@ header nav .ownmenu ul.dropdown .indicator{display:block;left:0px;margin-left:0p
 .radio input[type="radio"]:disabled + label{opacity:0.65;}
 .radio input[type="radio"]:disabled + label::before{cursor:not-allowed;}
 .radio.radio-inline{margin-top:0;}
-.radio-primary input[type="radio"] + label::after{background-color:#337ab7;}
-.radio-primary input[type="radio"]:checked + label::before{border-color:#337ab7;}
-.radio-primary input[type="radio"]:checked + label::after{background-color:#337ab7;}
+.radio-primary input[type="radio"] + label::after{background-color:#cf4a25;}
+.radio-primary input[type="radio"]:checked + label::before{border-color:#cf4a25;}
+.radio-primary input[type="radio"]:checked + label::after{background-color:#cf4a25;}
 .radio-danger input[type="radio"] + label::after{background-color:#d9534f;}
 .radio-danger input[type="radio"]:checked + label::before{border-color:#d9534f;}
 .radio-danger input[type="radio"]:checked + label::after{background-color:#d9534f;}
