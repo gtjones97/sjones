@@ -2180,7 +2180,7 @@ Main components
 	transform: translateX(-50%) translateY(-50%);
 	width: 18px;
 	height: 2px;
-	background-color: #337ab7;/* these are the upper and lower lines in the menu menu */
+	background-color: #cf4a25;/* these are the upper and lower lines in the menu menu */
 }
 #cd-menu-trigger .cd-menu-icon::before, #cd-menu-trigger .cd-menu-icon:after {
 	content: '';
@@ -2200,7 +2200,7 @@ Main components
 	background-color: rgba(255, 255, 255, 0);
 }
 #cd-menu-trigger.is-clicked .cd-menu-icon::before, #cd-menu-trigger.is-clicked .cd-menu-icon::after {
-	background-color: #337ab7;
+	background-color: #cf4a25;
 }
 #cd-menu-trigger.is-clicked .cd-menu-icon::before {
 	bottom: 0;
@@ -2284,12 +2284,12 @@ Main components
 	font-weight: normal;
 }
 .cd-navigation li a.current {
-	background-color: #337ab7;
+	background-color: #cf4a25;
 	color: #FFF;
 }
 .no-touch .cd-navigation a:hover {
 	color: #FFF;
-	background: #337ab7;
+	background: #cf4a25;
 }
 @media only screen and (min-width: 768px) {
 #cd-lateral-nav .cd-navigation {
