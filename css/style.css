@@ -158,7 +158,7 @@ h5.tittle {
 }
 .top-head a {
 	letter-spacing: 1px;
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 	padding: 10px 20px;
 	text-transform: uppercase;
@@ -193,20 +193,20 @@ h5.tittle {
 	line-height: 30px;
 }
 .side-bar .personal-info li a {
-	color: #346abb;
+	color: #cf4a25;
 }
 .bor-btm {
 	border-bottom: 1px solid #e6e6e6;
 }
 .side-bar .attach li p {
 	margin: 0px;
-	color: #346abb;
+	color: #cf4a25;
 	line-height: 40px;
 	font-weight: bold;
 }
 .side-bar .attach li p a {
 	margin: 0px;
-	color: #346abb;
+	color: #cf4a25;
 	font-weight: bold;
 	float: right;
 	margin-left: 10px;
@@ -361,7 +361,7 @@ h5.tittle {
 	-ms-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
 	letter-spacing: 1px;
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 	padding: 15px 30px;
 	text-transform: uppercase;
@@ -399,8 +399,8 @@ h5.tittle {
 	color: #fff;
 	height: 30px;
 	width: 30px;
-	background: #346abb;
-	border: 1px solid #346abb;
+	background: #cf4a25;
+	border: 1px solid #cf4a25;
 	text-align: center;
 	top: 0px;
 	left: 15px;
@@ -447,8 +447,8 @@ h5.tittle {
 	border-radius: 20px;
 }
 .accordion .panel-default .panel-heading .panel-title a.collapsed:hover:before {
-	background: #346abb;
-	border: 1px solid #346abb;
+	background: #cf4a25;
+	border: 1px solid #cf4a25;
 	color: #fff;
 }
 .accordion .panel {
@@ -482,7 +482,7 @@ h5.tittle {
 	margin-top: 5px;
 }
 .progress-bar {
-	background: #346abb;
+	background: #cf4a25;
 }
 .ethical a {
 	font-weight: 600;
@@ -493,9 +493,9 @@ h5.tittle {
 	border: 1px solid #e6e6e6;
 }
 .ethical a:hover {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
-	border: 1px solid #346abb;
+	border: 1px solid #cf4a25;
 }
 /*=======================================================
 			Experiences
@@ -511,7 +511,7 @@ h5.tittle {
 	right: 0px;
 }
 .exp-history a {
-	color: #346abb;
+	color: #cf4a25;
 }
 .exp-history a:hover {
 	color: #333;
@@ -534,7 +534,7 @@ h5.tittle {
 	position: relative;
 }
 .exp-history .diploma {
-	color: #346abb;
+	color: #cf4a25;
 	font-size: 13px;
 }
 .exp-history .diploma i {
@@ -811,7 +811,7 @@ h5.tittle {
 	transition: all 400ms ease-out;
 }
 .portfolio-overlay h3 > a:hover, .portfolio-overlay h3 > a:active, .portfolio-overlay h3 > a.active, .portfolio-overlay h3 > a:focus, .portfolio-overlay span > a:hover, .portfolio-overlay span > a:active, .portfolio-overlay span > a.active, .portfolio-overlay span > a:focus {
-	color: #346abb;
+	color: #cf4a25;
 }
 .portfolio-overlay .position-center-center {
 	width: 100%;
@@ -911,7 +911,7 @@ h5.tittle {
 	line-height: 36px;
 }
 .portfolio-overlay.style-4 .go:hover {
-	color: #346abb;
+	color: #cf4a25;
 	background: none;
 }
 .portfolio-overlay a.go {
@@ -926,8 +926,8 @@ h5.tittle {
 	display: inline-block;
 }
 .portfolio-overlay a.go:hover {
-	border: 2px solid #346abb;
-	color: #346abb;
+	border: 2px solid #cf4a25;
+	color: #cf4a25;
 }
 .portfolio-overlay.style-2 a.go {
 	color: #eeb013;
@@ -936,7 +936,7 @@ h5.tittle {
 	font-size: 20px;
 	line-height: 26px;
 	text-align: center;
-	border: 2px solid #346abb;
+	border: 2px solid #cf4a25;
 	border-radius: 50%;
 	position: absolute;
 	right: 20px;
@@ -1088,8 +1088,8 @@ h5.tittle {
 	font-weight: 500;
 }
 .tabs li a.active {
-	border: 1px solid #346abb;
-	background: #346abb;
+	border: 1px solid #cf4a25;
+	background: #cf4a25;
 	color: #fff;
 }
 .tabs.style-2 {
@@ -1328,7 +1328,7 @@ h5.tittle {
 	line-height: 30px;
 }
 .about-me .personal-info li a {
-	color: #346abb;
+	color: #cf4a25;
 }
 .icon-box {
 	text-align: center;
@@ -1403,7 +1403,7 @@ h5.tittle {
 }
 .blog .post-in .btn-1 {
 	letter-spacing: 1px;
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 	line-height: 20px;
 	margin-top: 10px;
@@ -1525,11 +1525,11 @@ h5.tittle {
 	font-weight: bold;
 }
 .isop-filter li a:hover {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 }
 .isop-filter li a.active {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 }
 .portfolio-filter li {
@@ -1549,22 +1549,22 @@ h5.tittle {
 	border: 1px solid rgba(0,0,0,0.1);
 }
 .portfolio-filter li:hover {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 }
 .portfolio-filter li.active {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
-	border: 1px solid #346abb;
+	border: 1px solid #cf4a25;
 }
 .isop-filter.main-nav {
 }
 .isop-filter li a:hover {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 }
 .isop-filter li.active a {
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 }
 .main-nav {
@@ -1687,7 +1687,7 @@ h5.tittle {
 }
 .pricing-table.style-1 .cta-button .btn {
 	letter-spacing: 1px;
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 	border-radius: 0px;
 	padding: 10px 20px;
@@ -1866,7 +1866,7 @@ h5.tittle {
 .accordion-style-2 .panel-default > .panel-heading a {
 	font-size: 13px;
 	text-transform: none;
-	color: #346abb;
+	color: #cf4a25;
 	border-radius: 0px;
 }
 .accordion-style-2 .panel-default > .panel-heading .panel-title a.collapsed {
@@ -1890,8 +1890,8 @@ h5.tittle {
 	width: 26px;
 	line-height: 24px;
 	text-align: center;
-	background: #346abb;
-	border-color: #346abb;
+	background: #cf4a25;
+	border-color: #cf4a25;
 	color: #fff;
 	left: auto;
 	right: 15px;
@@ -1955,7 +1955,7 @@ h5.tittle {
 	line-height: 80px;
 	margin-bottom: 20px;
 	color: #fff;
-	background: #346abb;
+	background: #cf4a25;
 	border-radius: 50%;
 	display: inline-block;
 }
@@ -2003,8 +2003,8 @@ h5.tittle {
 	width: 100%;
 }
 .icon-box.ib-black .ib-icon {
-	background-color: #346abb !important;
-	border-color: #346abb !important;
+	background-color: #cf4a25 !important;
+	border-color: #cf4a25 !important;
 	color: #FFFFFF !important;
 	text-align: center;
 }
@@ -2219,7 +2219,7 @@ Main components
 	transform: rotate(-45deg);
 }
 #cd-menu-trigger:hover {
-	background: #346abb;
+	background: #cf4a25;
 }
 #cd-menu-trigger:hover .cd-menu-icon {
 	background: #fff;
@@ -2754,7 +2754,7 @@ margin:
 	-ms-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
 	letter-spacing: 1px;
-	background: #346abb;
+	background: #cf4a25;
 	color: #fff;
 	padding: 15px 30px;
 	text-transform: uppercase;
